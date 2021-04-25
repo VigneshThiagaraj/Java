@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="AbstractClasses/src"/>
-	<classpathentry kind="src" path="Arrays/src"/>
-	<classpathentry kind="src" path="AutoBoxingAndUnBoxing/src"/>
 	<classpathentry kind="src" path="Classes &amp; Objects/src"/>
 	<classpathentry kind="src" path="Composition/src"/>
 	<classpathentry kind="src" path="Constructors/src"/>
 	<classpathentry kind="src" path="Encapsulation/src"/>
-	<classpathentry kind="src" path="ImmutableClass/src"/>
 	<classpathentry kind="src" path="Inheritance/src"/>
 	<classpathentry kind="src" path="InnerClasses/src"/>
 	<classpathentry kind="src" path="Interfaces/src"/>
 	<classpathentry kind="src" path="OOPSConcepts/src"/>
 	<classpathentry kind="src" path="Polymorphism/src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="output" path="Arrays/out/production/Arrays"/>
+	<classpathentry kind="output" path="out"/>
 </classpath>
